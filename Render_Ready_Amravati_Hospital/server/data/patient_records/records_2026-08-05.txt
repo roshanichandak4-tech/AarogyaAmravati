@@ -1,0 +1,2 @@
+[4:43:08 PM] ID: AMR-3478 | Token: #1 | Name: one | Phone: 8999660903 | Dept: OPD Desk 1 (General) | Slot: 09:30 AM | Status: Waiting
+[4:44:58 PM] ID: AMR-5978 | Token: #2 | Name: roshani | Phone: 8999660903 | Dept: OPD Desk 1 (General) | Slot: 09:30 AM | Status: Waiting

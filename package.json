@@ -1,0 +1,23 @@
+{
+  "name": "amravati-hospital-management",
+  "version": "1.0.0",
+  "description": "Hospital Management System for Amravati - Real-time queues, token tracking, doctor management, blood bank, AI assistant & QR integration",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "node server/server.js",
+    "client": "npm run dev --prefix client",
+    "dev": "node server/server.js",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "hospital-management",
+    "amravati",
+    "real-time-queue",
+    "token-system",
+    "healthcare",
+    "ai-chatbot"
+  ],
+  "author": "Antigravity Team",
+  "license": "MIT"
+}
